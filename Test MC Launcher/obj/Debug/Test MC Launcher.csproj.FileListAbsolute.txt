@@ -1,0 +1,10 @@
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\bin\Debug\Test MC Launcher.exe.config
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\bin\Debug\Test MC Launcher.exe
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\bin\Debug\Test MC Launcher.pdb
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test MC Launcher.csprojAssemblyReference.cache
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test_MC_Launcher.Form1.resources
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test_MC_Launcher.Properties.Resources.resources
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test MC Launcher.csproj.GenerateResource.cache
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test MC Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test MC Launcher.exe
+C:\Users\Mikołaj\source\repos\Test MC Launcher\Test MC Launcher\obj\Debug\Test MC Launcher.pdb
